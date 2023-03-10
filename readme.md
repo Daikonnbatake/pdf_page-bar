@@ -12,12 +12,12 @@ PDF の下部にページの現在位置を表すプログレスバーをつけ�
 ### 2. プログレスバーを付ける PDF を選択
 `main.py` を実行すると自動でファイル選択ダイアログが表示されます。
 プログレスバーを付けたいファイルを選択して「開く」を押してください。
-![ss1](https://raw.githubusercontent.com/Daikonnbatake/pdf_page-bar/master/screenshots/ss1.png)
+![ss1](https://raw.githubusercontent.com/Daikonnbatake/pdf_page-bar/main/screenshots/ss1.png)
 
 ### 3. プログレスバーを付けた PDF の保存場所を選択
 2に続いて保存場所を指定するダイアログが表示されます。
 任意の名前を付けて「保存」を押してください。
-![ss2](https://raw.githubusercontent.com/Daikonnbatake/pdf_page-bar/master/screenshots/ss2.png)
+![ss2](https://raw.githubusercontent.com/Daikonnbatake/pdf_page-bar/main/screenshots/ss2.png)
 
 ## Author
 [github](https://github.com/Daikonnbatake)
