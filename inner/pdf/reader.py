@@ -1,6 +1,5 @@
 from pdfrw import PdfReader
 from pdfrw.buildxobj import pagexobj
-from pdfrw.toreportlab import makerl
 
 class PDFReader:
 
